@@ -1,2 +1,3 @@
-boss,9086239424,Xinrui,Zhong
+role,NetID,LastName,FirstName
+boss,xzhong57,Zhong,Xinrui
 employee,hwu478,Wu,Haorui
